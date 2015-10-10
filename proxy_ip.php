@@ -1,5 +1,5 @@
 <?php
-require('phpQuery/phpQuery.php');
+require('./phpQuery-onefile.php');
 
 $urlList = [
 	'http://www.xicidaili.com/nn/',
